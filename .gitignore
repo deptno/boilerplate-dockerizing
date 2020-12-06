@@ -1,0 +1,4 @@
+.idea
+.volatile/*
+**/node_modules
+!**/.githolder
